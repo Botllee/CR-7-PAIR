@@ -25,7 +25,7 @@ FORK THE REPOSITORY (Repo)
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/keith-pair' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Botllee/CR-7-PAIR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 # `Owner`
 
  <a href="https://github.com/Keithkeizzah"><img src="https://telegra.ph/file/ac64eb9543937fe3baaf3.jpg" width="250" height="250" alt="Giftedmaurice"/></a>
